@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Ice Arrow",
+  "description": "Secure Secret Sharing on Walrus",
+  "version": "0.1.0",
+  "icons": {
+    "16": "img/icon-16x16.png",
+    "48": "img/icon-32x32.png",
+    "128": "img/icon-180x180.png"
+  },
+  "action": {
+    "default_icon": "img/icon-32x32.png",
+    "default_title": "Ice Arrow",
+    "default_popup": "popup.html"
+  }
+}
