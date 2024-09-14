@@ -10,4 +10,4 @@ It's a companion project for [kkomelin/icearrow](https://github.com/kkomelin/ice
 2. Go to `chrome://extensions/`
 3. Enable `Developer mode`
 4. `Load unpacked`
-5. Pin the extension icon to the toolbar
+5. Pin the extension icon to the browser toolbar
